@@ -11,27 +11,26 @@
 - ✅ [Codigos basicos do docker](#)
      - ✅ [docker run -d -p 80:80 --name NAME IMAGE;](#)
          - ✅ [-Cria um container com o nome NAME e a imagem IMAGE](#)
-         -
+         --
      - ✅ [docker ps;](#)
          - ✅ [-Mostra os containers](#)
-         -
+         --
      - ✅ [docker stop NAME;](#)
          - ✅ [-Para o container NAME](#)
-         -
+         --
      - ✅ [docker run NAME;](#)
          - ✅ [-Cria um container com o nome NAME](#)
-         -
+         --
      - ✅ [docker start NAME;](#)
          - ✅ [-Inicia o container NAME](#)
-         -
+         --
      - ✅ [docker rmi NAME;](#)
          - ✅ [-Remove a imagem NAME](#)
-         -
+         --
      - ✅ [docker exec -it NAME /bin/bash;](#)
      - ✅ [NAME -u root -p](#)
          - ✅ [-Abre o terminal do container NAME](#)
-         -
-     - ✅ [](#)
+         --
 -------------------------------------------------------------------------------------------------------------------
 
 ![System](SQL.jpg)
