@@ -47,7 +47,4 @@
          - ✅ [Mostra as informações da tablea](#)
     - ✅ [insert into NAME(NAME[variabel], NAME2[variabel], NAME3[variabel]) values(VALOR1, VALOR2, VALOR3);](#)
          - ✅ [Insere valores na tablea](#)
-
-# Docker
- ![System](images.jpg)
-# Docker
+-------------
