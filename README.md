@@ -6,20 +6,38 @@
 >
 >Explicando os conseitos que precisamos para trabalho futuro.
 
-# Docker
  ![System](Docker.png)
 # Docker
-
+- ✅ [Codigos basicos do docker](#)
+     - ✅ [docker run -d -p 80:80 --name NAME IMAGE;](#)
+         - ✅ [-Cria um container com o nome NAME e a imagem IMAGE](#)
+         ---
+     - ✅ [docker ps;](#)
+         - ✅ [-Mostra os containers](#)
+         ---
+     - ✅ [docker stop NAME;](#)
+         - ✅ [-Para o container NAME](#)
+         ---
+     - ✅ [docker rm NAME;](#)
+         - ✅ [-Remove o container NAME](#)
+         ---
+     - ✅ [docker rmi NAME;](#)
+         - ✅ [-Remove a imagem NAME](#)
+         ---
+     - ✅ [docker rmi NAME;](#)
+         - ✅ [-Remove a imagem NAME](#)
+     - ✅ [docker exec -it NAME /bin/bash;](#)
+     - ✅ [NAME -u root -p](#)
+         - ✅ [-Abre o terminal do container NAME](#)
 -------------------------------------------------------------------------------------------------------------------
 
-# SQL
 ![System](SQL.jpg)
 
 # SQL
 
 #### Inicio [Link]()
 
-- ✅ [Codigos basicos do docker/SQL](#)
+- ✅ [Codigos basicos do SQL](#)
     - ✅ [create databases NAME;](#)
         - ✅ [-Cria uma data base](#)
     - ✅ [create tables NAME(NAME[variabel], NAME2[variabel], NAME3[variabel]);](#)
